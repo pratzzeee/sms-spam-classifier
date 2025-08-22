@@ -20,23 +20,15 @@ Features
 	Classification:
 	  •	Trained using machine learning models (e.g., Naive Bayes, Logistic Regression, etc.)
 	  •	Evaluated with metrics like accuracy, precision, recall, and F1-score
-
-Project Structure 
-├── data/
-│   └── spam.csv  
-├── notebook/
-│   └── SpamClassifier.ipynb
-├── README.md
-└── requirements.txt
-
+   
 Tech Stack
-	•	Python (Pandas, NumPy, Matplotlib, Seaborn)
-	•	NLTK for text preprocessing
-	•	Scikit-learn for machine learning
-	•	WordCloud for visualization
+	• Python (Pandas, NumPy, Matplotlib, Seaborn)
+	• NLTK for text preprocessing
+	• Scikit-learn for machine learning
+	• WordCloud for visualization
  
 Results
-	•	Achieved high classification accuracy (typically >95%)
-	•	Successfully detects spam messages with strong precision and recall
+	• Achieved high classification accuracy (typically >95%)
+	• Successfully detects spam messages with strong precision and recall
 
 
